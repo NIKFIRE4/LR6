@@ -1,2 +1,6 @@
-for i in range(5):
+a = int(input())
+for i in range(a):
     print(i)
+
+
+
