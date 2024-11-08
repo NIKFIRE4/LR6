@@ -17,8 +17,10 @@
 ![conflict](https://github.com/user-attachments/assets/5407cf09-2acc-49ca-9daf-dca608fe8cdf)
 
 решение конфликта
+игнорировал побочную ветку, и оставил только те изменения которые прописаны в ветке master
 
 ![решение конфликта](https://github.com/user-attachments/assets/3523f3d5-307f-46f9-91e5-84ec33a7fece)
+
 
 удаление коммита
 
@@ -34,6 +36,37 @@
 
 git push. Вначале текущую ветку (report), потом все ветки.
 ![image](https://github.com/user-attachments/assets/b113e972-4ae5-44d5-990e-e2c250e9a443)
+
+список использованных команд
+
+git clone https://github.com/NIKFIRE4/LR6
+
+cd LR6
+
+git log --all
+
+git diff b4a235d7b4d26b38e500f9b40d698dfe5ecc6a7b
+
+git branch -d branch1
+
+git commit -m ""
+
+git add .
+
+git diff HEAD
+
+git branch report
+
+git checkout report
+
+git merge
+
+git log --pretty=format:"%h + %cd + %an + %s"
+
+git push --all
+
+git push origin -d branch1
+
 
 
 
