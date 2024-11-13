@@ -3,39 +3,40 @@
 # Локальная работа после клонирования репозитория
 подтянул изменнения из GitHub
 
-![lr5_1](https://github.com/user-attachments/assets/1491be5d-5ee8-4efc-8716-71b544269edb)
+https://github.com/NIKFIRE4/LR6/blob/2cc7828b5ebf5f5fa7a5e2584946b6f99b4d588b/img/1%D0%B9.png
 
 История операций всех веток
-![image](https://github.com/user-attachments/assets/be3b62a6-f618-4000-a833-339d1e02ecb0)
+
+https://github.com/NIKFIRE4/LR6/blob/2cc7828b5ebf5f5fa7a5e2584946b6f99b4d588b/img/2%D0%B9.png
 
 промежуточные коммиты
 
-![lr_5_3](https://github.com/user-attachments/assets/b4161aec-2b90-4eb3-9abf-747523fbe686)
+https://github.com/NIKFIRE4/LR6/blob/2cc7828b5ebf5f5fa7a5e2584946b6f99b4d588b/img/3%D0%B9.png
 
 конфликт при слиянии веток 
 
-![conflict](https://github.com/user-attachments/assets/5407cf09-2acc-49ca-9daf-dca608fe8cdf)
+https://github.com/NIKFIRE4/LR6/blob/2cc7828b5ebf5f5fa7a5e2584946b6f99b4d588b/img/4%D0%B9png.png
 
 решение конфликта
 игнорировал побочную ветку, и оставил только те изменения которые прописаны в ветке master
 
-![решение конфликта](https://github.com/user-attachments/assets/3523f3d5-307f-46f9-91e5-84ec33a7fece)
-
+https://github.com/NIKFIRE4/LR6/blob/2cc7828b5ebf5f5fa7a5e2584946b6f99b4d588b/img/5%D0%B9.png
 
 удаление коммита
 
-![del_commit](https://github.com/user-attachments/assets/ba0723e1-5609-44af-a5d5-9b486e7317f5)
+https://github.com/NIKFIRE4/LR6/blob/2cc7828b5ebf5f5fa7a5e2584946b6f99b4d588b/img/6%D0%B9.png
 
 оформление отчета в процессе
 
-![image](https://github.com/user-attachments/assets/b62548e3-7f83-42c5-b47a-c2d6411e32d4)
+https://github.com/NIKFIRE4/LR6/blob/2cc7828b5ebf5f5fa7a5e2584946b6f99b4d588b/img/7%D0%B9.png
 
 красивая история операций 
 
-![image](https://github.com/user-attachments/assets/99989f54-2556-483d-9622-9e28136a3f1a)
+https://github.com/NIKFIRE4/LR6/blob/2cc7828b5ebf5f5fa7a5e2584946b6f99b4d588b/img/8%D0%B9.png
 
 git push. Вначале текущую ветку (report), потом все ветки.
-![image](https://github.com/user-attachments/assets/b113e972-4ae5-44d5-990e-e2c250e9a443)
+
+https://github.com/NIKFIRE4/LR6/blob/2cc7828b5ebf5f5fa7a5e2584946b6f99b4d588b/img/9%D0%B9.png
 
 список использованных команд
 
